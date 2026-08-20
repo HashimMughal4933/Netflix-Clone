@@ -209,43 +209,6 @@ This project helped me practice:
 
 ---
 
-🚀 How to Run
-
-1. Clone the repository
-
-git clone https://github.com/HashimMughal143/Netflix-Clone.git
-
-2. Open the project
-
-Navigate into the project folder:
-
-cd Netflix-Clone
-
-3. Run the website
-
-Open "index.html" directly in your browser.
-
-Or use VS Code Live Server for a better development experience.
-
----
-
-📌 Future Improvements
-
-Possible improvements for future versions:
-
-- [ ] Add JavaScript functionality
-- [ ] Make the FAQ questions expandable
-- [ ] Add functional Sign In functionality
-- [ ] Connect the email form to a backend
-- [ ] Add real movie data
-- [ ] Add movie detail pages
-- [ ] Add a working search feature
-- [ ] Improve accessibility
-- [ ] Add a functional language selector
-- [ ] Deploy the project online
-
----
-
 👨‍💻 Author
 
 Hashim Mughal
