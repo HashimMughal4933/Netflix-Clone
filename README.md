@@ -9,9 +9,11 @@ This project recreates the visual structure of Netflix's homepage, including the
 
 📸 Preview
 
-Add a screenshot of your project here:
 
-![Netflix Pakistan Clone Preview](images/preview.png)
+<p>
+  
+<img src="./images/netflix.PNG">
+</p>
 
 ---
 
